@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\hadoop\hadoop-3.3.2-src\hadoop-assemblies\target/test-dir"/>
+  <mkdir dir="D:\Projects\DefensePoint\WhiteSource\sast-analysis-new\sast-analysis\java-engine\test_input\hadoop\hadoop-3.3.2-src\hadoop-assemblies\target/test-dir"/>
+</target>
+</project>
